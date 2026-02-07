@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gym-admin-dashboard/static/css/main.35a9f697.css",
+    "main.js": "/gym-admin-dashboard/static/js/main.bc0ccfac.js",
+    "static/js/488.7f638f0c.chunk.js": "/gym-admin-dashboard/static/js/488.7f638f0c.chunk.js",
+    "index.html": "/gym-admin-dashboard/index.html",
+    "main.35a9f697.css.map": "/gym-admin-dashboard/static/css/main.35a9f697.css.map",
+    "main.bc0ccfac.js.map": "/gym-admin-dashboard/static/js/main.bc0ccfac.js.map",
+    "488.7f638f0c.chunk.js.map": "/gym-admin-dashboard/static/js/488.7f638f0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a9f697.css",
+    "static/js/main.bc0ccfac.js"
+  ]
+}
